@@ -30,7 +30,7 @@ Finally, the last course teaches how to use Amazon CloudWatch for monitoring, as
 AWS provides a set of flexible services designed to enable companies to more rapidly and reliably build and deliver products using AWS and DevOps practices. These services simplify provisioning and managing infrastructure, deploying application code, automating software release processes, and monitoring your application and infrastructure performance. This specialization has a significant hands-on component involving the AWS Free Tier in which you will explore AWS services and concepts using AWS SDKs, AWS APIs, and the AWS Console.
 
 
-## Skills To Be Learn
+## Skills To Learn
 
 * Devops
 * Continuous Integration
