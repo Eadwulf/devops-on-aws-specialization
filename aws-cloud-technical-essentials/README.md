@@ -1,4 +1,4 @@
-# DevOps On AWS
+# AWS Cloud Technical Essentials
 
 ## Week 1
 
