@@ -97,14 +97,12 @@ To ensure that you don’t lose Multi-AZ configuration, a new standby database i
 
 The reason you can select multiple subnets for an Amazon RDS database is because of the Multi-AZ configuration. You’ll want to ensure that you have used subnets in different AZs for your primary and standby copies.
 
-## 
+## **Resources**
 
-**Resources**:
-
-- *[External Site:* AWS: Working With Backups](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html)
-- *[External Site:* AWS: Amazon RDS Backup and Restore](https://aws.amazon.com/rds/details/backup/)
-- *[External Site:* AWS: Creating and Using an IAM Policy for IAM Database Access](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.IAMPolicy.html)
-- *[External Site:* AWS: Amazon Virtual Private Cloud VPCs and Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.html)
+- [*External Site:* AWS: Working With Backups](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html)
+- [*External Site:* AWS: Amazon RDS Backup and Restore](https://aws.amazon.com/rds/details/backup/)
+- [*External Site:* AWS: Creating and Using an IAM Policy for IAM Database Access](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.IAMPolicy.html)
+- [*External Site:* AWS: Amazon Virtual Private Cloud VPCs and Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.html)
 
 [<< Prev](Reading%203%205%20Explore%20Databases%20on%20AWS.md)
 |

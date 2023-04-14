@@ -76,14 +76,14 @@ You can find a tutorial on creating the AWS Lambda function as well as the code 
 
 **Resources**:
 
-- *[External Site:* AWS: Serverless](https://aws.amazon.com/serverless/#:~:text=Serverless%20is%20the%20native%20architecture,services%20without%20thinking%20about%20servers.)
-- *[Coursera Course:* Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws)
-- *[External Site:* AWS: AWS Serverless resources](https://aws.amazon.com/serverless/resources/?serverless.sort-by=item.additionalFields.createdDate&serverless.sort-order=desc)
-- *[External Site:* AWS: Building Applications with Serverless Architectures](https://aws.amazon.com/lambda/serverless-architectures-learn-more/)
-- *[External Site:* AWS: Best practices for organizing larger serverless applications](https://aws.amazon.com/blogs/compute/best-practices-for-organizing-larger-serverless-applications/)
-- *[External Site:* AWS: Managing AWS Lambda functions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-functions.html)
-- *[External Site:* AWS: 10 Things Serverless Architects Should Know](https://aws.amazon.com/blogs/architecture/ten-things-serverless-architects-should-know/)
-- *[External Site:* AWS: AWS Alien Attack! A Serverless Adventure](https://alienattack.workshop.aws/)
+- [*External Site:* AWS: Serverless](https://aws.amazon.com/serverless/#:~:text=Serverless%20is%20the%20native%20architecture,services%20without%20thinking%20about%20servers.)
+- [*Coursera Course:* Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws)
+- [*External Site:* AWS: AWS Serverless resources](https://aws.amazon.com/serverless/resources/?serverless.sort-by=item.additionalFields.createdDate&serverless.sort-order=desc)
+- [*External Site:* AWS: Building Applications with Serverless Architectures](https://aws.amazon.com/lambda/serverless-architectures-learn-more/)
+- [*External Site:* AWS: Best practices for organizing larger serverless applications](https://aws.amazon.com/blogs/compute/best-practices-for-organizing-larger-serverless-applications/)
+- [*External Site:* AWS: Managing AWS Lambda functions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-functions.html)
+- [*External Site:* AWS: 10 Things Serverless Architects Should Know](https://aws.amazon.com/blogs/architecture/ten-things-serverless-architects-should-know/)
+- [*External Site:* AWS: AWS Alien Attack! A Serverless Adventure](https://alienattack.workshop.aws/)
 
 [<< Prev](./Reading%202%203%20Container%20Services%20on%20AWS.md)
 |

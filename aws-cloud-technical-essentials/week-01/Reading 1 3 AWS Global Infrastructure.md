@@ -56,11 +56,11 @@ To keep your application available, you need to maintain high availability and r
 
 **Resources**:
 
-- *[External Site:* AWS: Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
-- *[External Site:* AWS: AWS Global Infrastructure Documentation](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html)
-- *[External Site:* AWS: AWS Regions and Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
-- *[External Site:* AWS: AWS service endpoints](https://docs.aws.amazon.com/general/latest/gr/rande.html)
-- *[External Site:* AWS: AWS Regional Services](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+- [*External Site:* AWS: Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
+- [*External Site:* AWS: AWS Global Infrastructure Documentation](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html)
+- [*External Site:* AWS: AWS Regions and Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
+- [*External Site:* AWS: AWS service endpoints](https://docs.aws.amazon.com/general/latest/gr/rande.html)
+- [*External Site:* AWS: AWS Regional Services](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
 
 [<< Prev](./Reading%201%202%20What%20is%20AWS.md)
 |

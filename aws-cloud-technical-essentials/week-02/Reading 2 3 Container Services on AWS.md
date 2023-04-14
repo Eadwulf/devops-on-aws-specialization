@@ -85,12 +85,12 @@ If you have containers running on Kubernetes and want an advanced orchestration 
 
 **Resources**:
 
-- *[External Site:* AWS: Containers on AWS](https://aws.amazon.com/containers/services/)
-- *[External Site:* Docker: What Is a Container?](https://www.docker.com/resources/what-container)
-- *[External Site:* AWS: Amazon Elastic Container Service](https://aws.amazon.com/ecs/)
-- *[External Site:* Github: Amazon ECS Agent](https://github.com/aws/amazon-ecs-agent)
-- *[External Site:* AWS: Amazon ECS container instances](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html)
-- *[Coursera Course:* Building Containerized Applications on AWS](https://www.coursera.org/learn/containerized-apps-on-aws)
+- [*External Site:* AWS: Containers on AWS](https://aws.amazon.com/containers/services/)
+- [*External Site:* Docker: What Is a Container?](https://www.docker.com/resources/what-container)
+- [*External Site:* AWS: Amazon Elastic Container Service](https://aws.amazon.com/ecs/)
+- [*External Site:* Github: Amazon ECS Agent](https://github.com/aws/amazon-ecs-agent)
+- [*External Site:* AWS: Amazon ECS container instances](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html)
+- [*Coursera Course:* Building Containerized Applications on AWS](https://www.coursera.org/learn/containerized-apps-on-aws)
 
 [<< Prev](./Exercise%203%20Launch%20and%20Corporate%20Directory%20Application.md)
 |

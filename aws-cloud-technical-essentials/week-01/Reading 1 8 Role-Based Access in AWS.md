@@ -44,8 +44,8 @@ If you have an organization that spans many employees and multiple AWS accounts,
 
 **Resources**:
 
-- *[External Site:* AWS: Security Best Practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
-- *[External Site*: How to create and manage users within AWS IAM Identity Center](https://aws.amazon.com/blogs/security/how-to-create-and-manage-users-within-aws-sso/)
+- [*External Site:* AWS: Security Best Practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+- [*External Site:* How to create and manage users within AWS IAM Identity Center](https://aws.amazon.com/blogs/security/how-to-create-and-manage-users-within-aws-sso/)
 
 [<< Prev](./Reading%201%207%20Introduction%20to%20AWS%20Identity%20and%20Acces.md)
 |

@@ -117,9 +117,9 @@ When creating a policy, it is required to have each of the following elements in
 
 **Resources*:***
 
-- *[External Site: What is IAM?](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/introduction.html)*
-- *[External Site: AWS IAM Identities](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/id.html)*
-- *[External Site: Access Management with AWS IAM](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/access.html)*
+- [*External Site:* What is IAM?](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/introduction.html)
+- [*External Site:* AWS IAM Identities](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/id.html)
+- [*External Site:* Access Management with AWS IAM](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/access.html)
 
 [<< Prev](./Exercise%201%3A%20Billing%20Threshold%20on%20AWS.md)
 |

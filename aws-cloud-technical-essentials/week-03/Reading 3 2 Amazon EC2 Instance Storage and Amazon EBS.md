@@ -67,10 +67,10 @@ When you take a snapshot of any of your EBS volumes, these backups are stored re
 
 EBS snapshots can be used to create multiple new volumes, whether they’re in the same Availability Zone or a different one. When you create a new volume from a snapshot, it’s an exact copy of the original volume at the time the snapshot was taken.
 
-### **Resources**
+## **Resources**
 
-- *[External Site:* AWS: Amazon Elastic Block Store (Amazon EBS)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
-- *[External Site:* AWS: Amazon EBS FAQs](https://aws.amazon.com/ebs/faqs/)
+- [*External Site:* AWS: Amazon Elastic Block Store (Amazon EBS)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
+- [*External Site:* AWS: Amazon EBS FAQs](https://aws.amazon.com/ebs/faqs/)
 
 [<< Prev](./Reading%203%201%20Storage%20Types%20on%20AWS.md)
 |

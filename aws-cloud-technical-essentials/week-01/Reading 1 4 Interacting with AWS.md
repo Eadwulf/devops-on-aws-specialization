@@ -46,11 +46,11 @@ response = ec2.describe_instances()
 
 print(response)
 
-**Resources**:
+## **Resources**
 
-- *[External Site:* AWS: Working with the AWS Management Console](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
-- *[External Site:* AWS: AWS Command Line Interface](https://aws.amazon.com/cli/)
-- *[External Site:* AWS: Tools to Build on AWS](https://aws.amazon.com/tools/)
+- [*External Site:* AWS: Working with the AWS Management Console](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
+- [*External Site:* AWS: AWS Command Line Interface](https://aws.amazon.com/cli/)
+- [*External Site:* AWS: Tools to Build on AWS](https://aws.amazon.com/tools/)
 
 [<< Prev](./Reading%201%203%20AWS%20Global%20Infrastructure.md)
 |

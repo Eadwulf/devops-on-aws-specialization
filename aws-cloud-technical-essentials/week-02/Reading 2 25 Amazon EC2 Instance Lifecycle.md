@@ -71,14 +71,14 @@ Another way of paying for EC2 instances is by using *Spot Instances*. Amazon EC2
 
 ### **Resources**
 
-- *[External Site:* AWS: Amazon EC2](https://aws.amazon.com/ec2/)
-- *[External Site:* AWS: Default VPC and default subnets](https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html)
-- *[External Site:* AWS: AWS Reliability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
-- *[External Site:* AWS: Instance lifecycle](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-lifecycle.html)
-- *[External Site:* AWS: Amazon EC2 pricing](https://aws.amazon.com/ec2/pricing/)
-- *[External Site:* AWS: Amazon EC2 On-Demand Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)
-- *[External Site:* AWS: Amazon EC2 Spot Instances Pricing](https://aws.amazon.com/ec2/spot/pricing/)
-- *[External Site:* AWS: Amazon EC2 Reserved Instances Pricing](https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/)
+- [*External Site:* AWS: Amazon EC2](https://aws.amazon.com/ec2/)
+- [*External Site:* AWS: Default VPC and default subnets](https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html)
+- [*External Site:* AWS: AWS Reliability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
+- [*External Site:* AWS: Instance lifecycle](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-lifecycle.html)
+- [*External Site:* AWS: Amazon EC2 pricing](https://aws.amazon.com/ec2/pricing/)
+- [*External Site:* AWS: Amazon EC2 On-Demand Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)
+- [*External Site:* AWS: Amazon EC2 Spot Instances Pricing](https://aws.amazon.com/ec2/spot/pricing/)
+- [*External Site:* AWS: Amazon EC2 Reserved Instances Pricing](https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/)
 
 [<< Prev](./Reading%202%202%20Introduction%20to%20Amazon%20Elastic%20Compute%20Cloud.md)
 |

@@ -49,10 +49,10 @@ If you’ve worked with storage on-premises, you may already be familiar with bl
 
 Adding more storage in a traditional data center environment is a more rigid process, as you need to purchase, install, and configure these storage solutions. With cloud computing, the process is more flexible. You can create, delete, and modify storage solutions all within a matter of minutes.
 
-**Resources**:
+## **Resources**
 
-- *[External Site:* AWS: What Is Cloud Storage](https://aws.amazon.com/what-is-cloud-storage/)
-- *[External Site:* AWS: Types of Cloud Storage](https://aws.amazon.com/what-is-cloud-object-storage/#types)
+- [*External Site:* AWS: What Is Cloud Storage](https://aws.amazon.com/what-is-cloud-storage/)
+- [*External Site:* AWS: Types of Cloud Storage](https://aws.amazon.com/what-is-cloud-object-storage/#types)
 
 [<< Prev](../week-02/Exercise%204%3A%20Creating%20a%20VPC%20and%20relaunching%20the%20Corporate%20Directory%20Application%20on%20Amazon%20EC2.md)
 |

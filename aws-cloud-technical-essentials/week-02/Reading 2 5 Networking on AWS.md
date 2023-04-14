@@ -69,8 +69,8 @@ When working with networks in the AWS Cloud, you choose your network size by usi
 
 **Resources**:
 
-- *[External Site:* Stanford: Introduction to Computer Networking](https://web.stanford.edu/class/cs101/network-1-introduction.html)
-- *[External Site:* Ionos: CIDR: What is classless inter-domain routing?](https://www.ionos.com/digitalguide/server/know-how/cidr-classless-inter-domain-routing/)
+- [*External Site:* Stanford: Introduction to Computer Networking](https://web.stanford.edu/class/cs101/network-1-introduction.html)
+- [*External Site:* Ionos: CIDR: What is classless inter-domain routing?](https://www.ionos.com/digitalguide/server/know-how/cidr-classless-inter-domain-routing/)
 
 [<< Prev](./Reading%202%204%20Serverless%20and%20AWS%20Lambda.md)
 |

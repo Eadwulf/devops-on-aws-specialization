@@ -81,11 +81,11 @@ AWS supports a variety of MFA mechanisms, such as virtual MFA devices, hardware 
 
 ### **Resources**
 
-- *[External Site:* AWS: Enabling a Hardware MFA Device (Console)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_physical.html)
-- *[External Site:* AWS: Enabling a U2F Security Key (Console)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_u2f.html)
-- *[External Site:* AWS: Enabling a Virtual Multi-Factor Authentication (MFA) Device (Console)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html)
-- *[External Site:* AWS: Table of Supported MFA Devices](https://aws.amazon.com/iam/features/mfa/)
-- *[External Site:* Tasks that require the use of root user credentials](https://docs.aws.amazon.com/general/latest/gr/root-vs-iam.html#aws_tasks-that-require-root)
+- [*External Site:* AWS: Enabling a Hardware MFA Device (Console)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_physical.html)
+- [*External Site:* AWS: Enabling a U2F Security Key (Console)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_u2f.html)
+- [*External Site:* AWS: Enabling a Virtual Multi-Factor Authentication (MFA) Device (Console)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html)
+- [*External Site:* AWS: Table of Supported MFA Devices](https://aws.amazon.com/iam/features/mfa/)
+- [*External Site:* Tasks that require the use of root user credentials](https://docs.aws.amazon.com/general/latest/gr/root-vs-iam.html#aws_tasks-that-require-root)
 
 [<< Prev](./Reading%201%205%20Security%20and%20the%20AWS%20Shared%20Responsibility%20Model.md)
 |

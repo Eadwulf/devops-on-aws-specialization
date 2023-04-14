@@ -54,15 +54,13 @@ Here are a few important features of Amazon EFS and FSx to know about when compa
 - You pay for what you use (you don’t have to provision storage in advance).
 - Amazon EFS and Amazon FSx can be mounted onto multiple EC2 instances.
 
-##
+## **Resources**
 
-**Resources**:
-
-- *[External Site:* AWS: Storage](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html)
-- *[External Site:* AWS: Cloud Storage on AWS](https://aws.amazon.com/products/storage/)
-- *[External Site:* Amazon EFS How it works](https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html)**
-- *[External Site:* Amazon FSx for Windows File Server](https://aws.amazon.com/fsx/windows/)**
-- *[External Site:* Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/)
+- [*External Site:* AWS: Storage](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html)
+- [*External Site:* AWS: Cloud Storage on AWS](https://aws.amazon.com/products/storage/)
+- [*External Site:* Amazon EFS How it works](https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html)**
+- [*External Site:* Amazon FSx for Windows File Server](https://aws.amazon.com/fsx/windows/)**
+- [*External Site:* Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/)
 
 [<< Prev](Reading%203%203%20Object%20Storage%20with%20Amazon%20S3.md)
 |

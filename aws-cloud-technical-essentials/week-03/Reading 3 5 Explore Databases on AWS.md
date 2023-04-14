@@ -81,10 +81,10 @@ This is what is often referred to as the **unmanaged database** option on AWS.
 
 If you want to shift even more of the work to AWS, you can use a **managed database** service. These services provide the setup of both the EC2 instance and the database, and they provide systems for high availability, scalability, patching, and backups. However, you’re still responsible for database tuning, query optimization, and of course, ensuring that your customer data is secure. This provides you ultimate convenience, but you have the least amount of control compared to the two previous options.
 
-**Resources**:
+## **Resources**
 
-- *[External Site:* AWS: What Is a Relational Database?](https://aws.amazon.com/relational-database/)
-- *[External Site:* AWS: Databases on AWS](https://aws.amazon.com/products/databases/)
+- [*External Site:* AWS: What Is a Relational Database?](https://aws.amazon.com/relational-database/)
+- [*External Site:* AWS: Databases on AWS](https://aws.amazon.com/products/databases/)
 
 [<< Prev](./Exercise%205%20Create%20an%20Amazon%20S3%20Bucket.md)
 |

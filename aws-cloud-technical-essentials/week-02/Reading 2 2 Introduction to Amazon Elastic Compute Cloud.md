@@ -53,10 +53,10 @@ Each AMI in the AWS Management Console has an AMI ID, which is prefixed by “am
 
 **Resources**:
 
-- *[External Site:* AWS: Amazon EC2](https://aws.amazon.com/ec2/)
-- *[External Site:* AWS: Amazon Machine Images (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
-- *[External Site:* AWS: Creating an Amazon EBS-backed Linux AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/creating-an-ami-ebs.html)
-- *[External Site:* AWS: What Is EC2 Image Builder?](https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html)
+- [*External Site:* AWS: Amazon EC2](https://aws.amazon.com/ec2/)
+- [*External Site:* AWS: Amazon Machine Images (AMI)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
+- [*External Site:* AWS: Creating an Amazon EBS-backed Linux AMI](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/creating-an-ami-ebs.html)
+- [*External Site:* AWS: What Is EC2 Image Builder?](https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html)
 
 [<< Prev](./Reading%202%201%20Compute%20as%20a%20Service%20on%20AWS.md)
 |

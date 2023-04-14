@@ -21,11 +21,11 @@ As the industry changes, applications and databases change too. Today, with larg
 
 This shift removes the idea of a one-size-fits-all database and replaces it with a complimentary database strategy. You can give each database the appropriate functionality, performance, and scale that the workload requires.
 
-**Resources**:
+## **Resources**
 
-- *[External Site:* AWS: Databases on AWS](https://aws.amazon.com/products/databases/)
-- *[External Site:* AWS: AWS Database Blog](https://aws.amazon.com/blogs/database/?nc=sn&loc=4)
-- *[External Site:* AWS: Database Freedom](https://aws.amazon.com/products/databases/freedom/?nc=sn&loc=5)
+- [*External Site:* AWS: Databases on AWS](https://aws.amazon.com/products/databases/)
+- [*External Site:* AWS: AWS Database Blog](https://aws.amazon.com/blogs/database/?nc=sn&loc=4)
+- [*External Site:* AWS: Database Freedom](https://aws.amazon.com/products/databases/freedom/?nc=sn&loc=5)
 
 [<< Prev](Reading%203%207%20Introduction%20to%20Amazon%20DynamoDB.md)
 |

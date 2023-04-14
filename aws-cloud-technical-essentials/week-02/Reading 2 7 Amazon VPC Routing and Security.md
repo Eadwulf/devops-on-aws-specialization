@@ -78,14 +78,14 @@ You learned in a previous unit that subnets can be used to segregate traffic bet
 
 This example allows you to define three tiers and isolate each tier with the security group rules you define. In this case, you only allow internet traffic to the web tier over HTTPS, Web Tier to Application Tier over HTTP, and Application tier to Database tier over MySQL. This is different from traditional on-premises environments, in which you isolate groups of resources via VLAN configuration. In AWS, security groups allow you to achieve the same isolation without tying it to your network.
 
-**Resources**:
+## **Resources**
 
-- *[External Site:* AWS: Route tables](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)
-- *[External Site:* AWS: Example routing options](https://docs.aws.amazon.com/vpc/latest/userguide/route-table-options.html)
-- *[External Site:* AWS: Working with routing tables](https://docs.aws.amazon.com/vpc/latest/userguide/WorkWithRouteTables.html)
-- *[External Site:* AWS: Network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
-- *[External Site:* AWS: Security groups for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
-- *[External Site:* AWS: I host a website on an EC2 instance. How do I allow my users to connect on HTTP (80) or HTTPS (443)?](https://aws.amazon.com/premiumsupport/knowledge-center/connect-http-https-ec2/)
+- [*External Site:* AWS: Route tables](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)
+- [*External Site:* AWS: Example routing options](https://docs.aws.amazon.com/vpc/latest/userguide/route-table-options.html)
+- [*External Site:* AWS: Working with routing tables](https://docs.aws.amazon.com/vpc/latest/userguide/WorkWithRouteTables.html)
+- [*External Site:* AWS: Network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
+- [*External Site:* AWS: Security groups for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
+- [*External Site:* AWS: I host a website on an EC2 instance. How do I allow my users to connect on HTTP (80) or HTTPS (443)?](https://aws.amazon.com/premiumsupport/knowledge-center/connect-http-https-ec2/)
 
 [<< Prev](./Reading%202%206%20Introduction%20to%20Amazon%20VPC.md)
 |

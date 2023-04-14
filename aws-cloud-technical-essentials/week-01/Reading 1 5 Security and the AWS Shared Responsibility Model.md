@@ -45,7 +45,7 @@ Due to the varying level of effort, it’s important to consider which AWS servi
 
 ## **RESOURCES**
 
-- [External Site: AWS: Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- [*External Site*: AWS: Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
 [<< Prev](./Reading%201%204%20Interacting%20with%20AWS.md)
 |
