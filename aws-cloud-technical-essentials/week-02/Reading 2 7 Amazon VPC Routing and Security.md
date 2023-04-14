@@ -1,3 +1,7 @@
+[<< Prev](./Reading%202%206%20Introduction%20to%20Amazon%20VPC.md)
+|
+[Netx >>](./Exercise%204%3A%20Creating%20a%20VPC%20and%20relaunching%20the%20Corporate%20Directory%20Application%20on%20Amazon%20EC2.md)
+
 # Reading 2.7: Amazon VPC Routing and Security
 
 ### **The Main Route Table**
@@ -82,3 +86,7 @@ This example allows you to define three tiers and isolate each tier with the sec
 - *[External Site:* AWS: Network ACLs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
 - *[External Site:* AWS: Security groups for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html)
 - *[External Site:* AWS: I host a website on an EC2 instance. How do I allow my users to connect on HTTP (80) or HTTPS (443)?](https://aws.amazon.com/premiumsupport/knowledge-center/connect-http-https-ec2/)
+
+[<< Prev](./Reading%202%206%20Introduction%20to%20Amazon%20VPC.md)
+|
+[Netx >>](./Exercise%204%3A%20Creating%20a%20VPC%20and%20relaunching%20the%20Corporate%20Directory%20Application%20on%20Amazon%20EC2.md)

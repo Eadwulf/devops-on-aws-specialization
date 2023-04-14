@@ -1,3 +1,7 @@
+[<< Prev](./Reading%201%202%20What%20is%20AWS.md)
+|
+[Next >>](./Reading%201%204%20Interacting%20with%20AWS.md)
+
 # Reading 1.3: AWS Global Infrastructure
 
 Infrastructure, like data centers and networking connectivity, still exists as the foundation of every cloud application. In AWS, this physical infrastructure makes up the AWS Global Infrastructure, in the form of Availability Zones and Regions.
@@ -57,3 +61,7 @@ To keep your application available, you need to maintain high availability and r
 - *[External Site:* AWS: AWS Regions and Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
 - *[External Site:* AWS: AWS service endpoints](https://docs.aws.amazon.com/general/latest/gr/rande.html)
 - *[External Site:* AWS: AWS Regional Services](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+
+[<< Prev](./Reading%201%202%20What%20is%20AWS.md)
+|
+[Next >>](./Reading%201%204%20Interacting%20with%20AWS.md)

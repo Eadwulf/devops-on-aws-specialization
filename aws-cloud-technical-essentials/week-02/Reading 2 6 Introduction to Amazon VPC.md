@@ -1,3 +1,7 @@
+[<< Prev](./Reading%202%205%20Networking%20on%20AWS.md)
+|
+[Netx >>](./Reading%202%207%20Amazon%20VPC%20Routing%20and%20Security.md)
+
 # Reading 2.6: Introduction to Amazon VPC
 
 A VPC is an isolated network you create in the AWS cloud, similar to a traditional network in a data center. When you create a VPC, you need to choose three main things.
@@ -51,3 +55,7 @@ A virtual private gateway allows you to connect your AWS VPC to another private 
 - [External Site: Customer Gateway](https://docs.aws.amazon.com/vpn/latest/s2svpn/how_it_works.html#CustomerGateway)
 - *[External Site:* AWS: What Is Amazon VPC?](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 - *[External Site:* AWS: VPCs and subnets](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html)
+
+[<< Prev](./Reading%202%205%20Networking%20on%20AWS.md)
+|
+[Netx >>](./Reading%202%207%20Amazon%20VPC%20Routing%20and%20Security.md)

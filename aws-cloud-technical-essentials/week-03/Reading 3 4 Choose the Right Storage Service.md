@@ -1,3 +1,7 @@
+[<< Prev](Reading%203%203%20Object%20Storage%20with%20Amazon%20S3.md)
+|
+[Netx >>](./Exercise%205%20Create%20an%20Amazon%20S3%20Bucket.md)
+
 # Reading 3.4: Choose the Right Storage Service
 
 Here’s a recap of all the storage services mentioned so far. By the end of this reading, you should be able to better answer the question “Which storage service should I use?” for some of the more common scenarios.
@@ -50,7 +54,7 @@ Here are a few important features of Amazon EFS and FSx to know about when compa
 - You pay for what you use (you don’t have to provision storage in advance).
 - Amazon EFS and Amazon FSx can be mounted onto multiple EC2 instances.
 
-## 
+##
 
 **Resources**:
 
@@ -59,3 +63,7 @@ Here are a few important features of Amazon EFS and FSx to know about when compa
 - *[External Site:* Amazon EFS How it works](https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html)**
 - *[External Site:* Amazon FSx for Windows File Server](https://aws.amazon.com/fsx/windows/)**
 - *[External Site:* Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/)
+
+[<< Prev](Reading%203%203%20Object%20Storage%20with%20Amazon%20S3.md)
+|
+[Netx >>](./Exercise%205%20Create%20an%20Amazon%20S3%20Bucket.md)

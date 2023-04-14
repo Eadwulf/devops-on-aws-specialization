@@ -1,3 +1,7 @@
+[<< Prev](./Reading%201%207%20Introduction%20to%20AWS%20Identity%20and%20Acces.md)
+|
+[Next >>](./Exercise%202%20Following%20IAM%20Best%20Practices.md)
+
 # Reading 1.8: Role-Based Access in AWS
 
 Throughout these last few lessons, there have been sprinklings of IAM best practices. It’s helpful to have a brief summary of some of the most important IAM best practices you need to be familiar with before building out solutions on AWS.
@@ -42,3 +46,7 @@ If you have an organization that spans many employees and multiple AWS accounts,
 
 - *[External Site:* AWS: Security Best Practices in IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 - *[External Site*: How to create and manage users within AWS IAM Identity Center](https://aws.amazon.com/blogs/security/how-to-create-and-manage-users-within-aws-sso/)
+
+[<< Prev](./Reading%201%207%20Introduction%20to%20AWS%20Identity%20and%20Acces.md)
+|
+[Next >>](./Exercise%202%20Following%20IAM%20Best%20Practices.md)

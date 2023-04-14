@@ -1,3 +1,7 @@
+[<< Prev](./Reading%202%203%20Container%20Services%20on%20AWS.md)
+|
+[Netx >>](./Reading%202%205%20Networking%20on%20AWS.md)
+
 # Reading 2.4: Serverless and AWS Lambda
 
 **REMOVE THE UNDIFFERENTIATED HEAVY LIFTING**
@@ -80,3 +84,7 @@ You can find a tutorial on creating the AWS Lambda function as well as the code 
 - *[External Site:* AWS: Managing AWS Lambda functions](https://docs.aws.amazon.com/lambda/latest/dg/lambda-functions.html)
 - *[External Site:* AWS: 10 Things Serverless Architects Should Know](https://aws.amazon.com/blogs/architecture/ten-things-serverless-architects-should-know/)
 - *[External Site:* AWS: AWS Alien Attack! A Serverless Adventure](https://alienattack.workshop.aws/)
+
+[<< Prev](./Reading%202%203%20Container%20Services%20on%20AWS.md)
+|
+[Netx >>](./Reading%202%205%20Networking%20on%20AWS.md)

@@ -1,4 +1,8 @@
-# Reading 3.8: Introduction to Amazon DynamoDB
+[<< Prev](./Reading%203%206%20Amazon%20Relational%20Database%20Service.md)
+|
+[Netx >>](./Reading%203%208%20Choose%20the%20Right%20AWS%20Database%20Service.md)
+
+# Reading 3.7: Introduction to Amazon DynamoDB
 
 # **What Is Amazon DynamoDB?**
 
@@ -27,3 +31,7 @@ DynamoDB also offers encryption at rest, which eliminates the operational burden
 Below you can find additional resources for learning about Amazon DynamoDB:
 
 - [External Resource: Introduction to Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
+
+[<< Prev](./Reading%203%206%20Amazon%20Relational%20Database%20Service.md)
+|
+[Netx >>](./Reading%203%208%20Choose%20the%20Right%20AWS%20Database%20Service.md)

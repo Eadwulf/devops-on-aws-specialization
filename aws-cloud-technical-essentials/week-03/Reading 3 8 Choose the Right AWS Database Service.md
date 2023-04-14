@@ -26,3 +26,7 @@ This shift removes the idea of a one-size-fits-all database and replaces it with
 - *[External Site:* AWS: Databases on AWS](https://aws.amazon.com/products/databases/)
 - *[External Site:* AWS: AWS Database Blog](https://aws.amazon.com/blogs/database/?nc=sn&loc=4)
 - *[External Site:* AWS: Database Freedom](https://aws.amazon.com/products/databases/freedom/?nc=sn&loc=5)
+
+[<< Prev](Reading%203%207%20Introduction%20to%20Amazon%20DynamoDB.md)
+|
+[Netx >>]()

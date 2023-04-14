@@ -1,3 +1,7 @@
+[<< Prev](./Exercise%203%20Launch%20and%20Corporate%20Directory%20Application.md)
+|
+[Netx >>](./Reading%202%204%20Serverless%20and%20AWS%20Lambda.md)
+
 # Reading 2.3: Container Services on AWS
 
 AWS offers a broad spectrum of compute offerings that give you the flexibility to choose the right tool for the right job. The three main categories of compute are *virtual machines*, *containers*, and *serverless*. There is no one-size-fits-all service because it depends on your needs.The key is to understand what each option has to offer in order to build a more appropriate cloud architecture for your use case. In this unit, you learn about containers and how to run them on AWS.Containers can host a variety of different workloads, including web applications, lift and shift migrations, distributed applications, and streamlining of development, test, and production environments.
@@ -87,3 +91,7 @@ If you have containers running on Kubernetes and want an advanced orchestration 
 - *[External Site:* Github: Amazon ECS Agent](https://github.com/aws/amazon-ecs-agent)
 - *[External Site:* AWS: Amazon ECS container instances](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html)
 - *[Coursera Course:* Building Containerized Applications on AWS](https://www.coursera.org/learn/containerized-apps-on-aws)
+
+[<< Prev](./Exercise%203%20Launch%20and%20Corporate%20Directory%20Application.md)
+|
+[Netx >>](./Reading%202%204%20Serverless%20and%20AWS%20Lambda.md)

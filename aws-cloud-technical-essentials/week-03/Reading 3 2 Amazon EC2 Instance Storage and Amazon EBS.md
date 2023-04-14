@@ -1,3 +1,7 @@
+[<< Prev](./Reading%203%201%20Storage%20Types%20on%20AWS.md)
+|
+[Netx >>](./Reading%203%203%20Object%20Storage%20with%20Amazon%20S3.md)
+
 # Reading 3.2: Amazon EC2 Instance Storage and Amazon Elastic Block Store
 
 **Amazon EC2 Instance Store**
@@ -67,3 +71,7 @@ EBS snapshots can be used to create multiple new volumes, whether they’re in t
 
 - *[External Site:* AWS: Amazon Elastic Block Store (Amazon EBS)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)
 - *[External Site:* AWS: Amazon EBS FAQs](https://aws.amazon.com/ebs/faqs/)
+
+[<< Prev](./Reading%203%201%20Storage%20Types%20on%20AWS.md)
+|
+[Netx >>](./Reading%203%203%20Object%20Storage%20with%20Amazon%20S3.md)

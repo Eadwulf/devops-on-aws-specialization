@@ -1,3 +1,7 @@
+[<< Prev](./Reading%201%205%20Security%20and%20the%20AWS%20Shared%20Responsibility%20Model.md)
+|
+[Nexxt >>](./Exercise%201%3A%20Billing%20Threshold%20on%20AWS.md)
+
 # Reading 1.6: Protect the AWS Root User
 
 ## **What’s the Big Deal About Auth?**
@@ -82,3 +86,7 @@ AWS supports a variety of MFA mechanisms, such as virtual MFA devices, hardware 
 - *[External Site:* AWS: Enabling a Virtual Multi-Factor Authentication (MFA) Device (Console)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html)
 - *[External Site:* AWS: Table of Supported MFA Devices](https://aws.amazon.com/iam/features/mfa/)
 - *[External Site:* Tasks that require the use of root user credentials](https://docs.aws.amazon.com/general/latest/gr/root-vs-iam.html#aws_tasks-that-require-root)
+
+[<< Prev](./Reading%201%205%20Security%20and%20the%20AWS%20Shared%20Responsibility%20Model.md)
+|
+[Nexxt >>](./Exercise%201%3A%20Billing%20Threshold%20on%20AWS.md)

@@ -1,3 +1,7 @@
+[<< Prev](../week-02/Exercise%204%3A%20Creating%20a%20VPC%20and%20relaunching%20the%20Corporate%20Directory%20Application%20on%20Amazon%20EC2.md)
+|
+[Netx >>](./Reading%203%202%20Amazon%20EC2%20Instance%20Storage%20and%20Amazon%20EBS.md)
+
 # Reading 3.1: Storage Types on AWS
 
 AWS storage services are grouped into three different categories: block storage, file storage, and object storage.
@@ -49,3 +53,7 @@ Adding more storage in a traditional data center environment is a more rigid pro
 
 - *[External Site:* AWS: What Is Cloud Storage](https://aws.amazon.com/what-is-cloud-storage/)
 - *[External Site:* AWS: Types of Cloud Storage](https://aws.amazon.com/what-is-cloud-object-storage/#types)
+
+[<< Prev](../week-02/Exercise%204%3A%20Creating%20a%20VPC%20and%20relaunching%20the%20Corporate%20Directory%20Application%20on%20Amazon%20EC2.md)
+|
+[Netx >>](./Reading%203%202%20Amazon%20EC2%20Instance%20Storage%20and%20Amazon%20EBS.md)

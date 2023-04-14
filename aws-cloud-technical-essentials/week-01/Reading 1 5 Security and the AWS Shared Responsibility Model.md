@@ -1,3 +1,7 @@
+[<< Prev](./Reading%201%204%20Interacting%20with%20AWS.md)
+|
+[Next >>](./Reading%201%206%20Protect%20the%20AWS%20Root%20User.md)
+
 # Reading 1.5: Security and the AWS Shared Responsibility Model
 
 When you begin working with the AWS Cloud, managing security and compliance is a shared responsibility between AWS and you. To depict this shared responsibility, AWS created the shared responsibility model. This distinction of responsibility is commonly referred to as security of the cloud, versus security in the cloud.
@@ -42,3 +46,7 @@ Due to the varying level of effort, it’s important to consider which AWS servi
 ## **RESOURCES**
 
 - [External Site: AWS: Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+
+[<< Prev](./Reading%201%204%20Interacting%20with%20AWS.md)
+|
+[Next >>](./Reading%201%206%20Protect%20the%20AWS%20Root%20User.md)

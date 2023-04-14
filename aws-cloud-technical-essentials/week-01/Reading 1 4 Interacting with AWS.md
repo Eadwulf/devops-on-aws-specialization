@@ -1,3 +1,7 @@
+[<< Prev](./Reading%201%203%20AWS%20Global%20Infrastructure.md)
+|
+[Next >>](./Reading%201%205%20Security%20and%20the%20AWS%20Shared%20Responsibility%20Model.md)
+
 # Reading 1.4: Interacting with AWS
 
 Every action you make in AWS is an API call that is authenticated and authorized. In AWS, you can make API calls to services and resources through the AWS Management Console, the AWS Command Line Interface (CLI), or the AWS Software Development Kits (SDKs).
@@ -47,3 +51,7 @@ print(response)
 - *[External Site:* AWS: Working with the AWS Management Console](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
 - *[External Site:* AWS: AWS Command Line Interface](https://aws.amazon.com/cli/)
 - *[External Site:* AWS: Tools to Build on AWS](https://aws.amazon.com/tools/)
+
+[<< Prev](./Reading%201%203%20AWS%20Global%20Infrastructure.md)
+|
+[Next >>](./Reading%201%205%20Security%20and%20the%20AWS%20Shared%20Responsibility%20Model.md)

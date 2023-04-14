@@ -1,3 +1,7 @@
+[<< Prev](./Reading%203%202%20Amazon%20EC2%20Instance%20Storage%20and%20Amazon%20EBS.md)
+|
+[Netx >>](Reading%203%204%20Choose%20the%20Right%20Storage%20Service.md)
+
 # Reading 3.3: Object Storage with Amazon S3
 
 **WHAT IS AMAZON S3?**
@@ -144,3 +148,7 @@ The following use cases are good candidates for lifecycle management.
 
 - **Periodic logs:** If you upload periodic logs to a bucket, your application might need them for a week or a month. After that, you might want to delete them.
 - **Data that changes in access frequency:** Some documents are frequently accessed for a limited period of time. After that, they are infrequently accessed. At some point, you might not need real-time access to them, but your organization or regulations might require you to archive them for a specific period. After that, you can delete them.
+
+[<< Prev](./Reading%203%202%20Amazon%20EC2%20Instance%20Storage%20and%20Amazon%20EBS.md)
+|
+[Netx >>](Reading%203%204%20Choose%20the%20Right%20Storage%20Service.md)

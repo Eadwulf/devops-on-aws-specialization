@@ -1,3 +1,7 @@
+[<< Prev](./Exercise%205%20Create%20an%20Amazon%20S3%20Bucket.md)
+|
+[Netx >>](Reading%203%206%20Amazon%20Relational%20Database%20Service.md)
+
 # Reading 3.5: Explore Databases on AWS
 
 # **Explore Databases on AWS**
@@ -81,3 +85,7 @@ If you want to shift even more of the work to AWS, you can use a **managed data
 
 - *[External Site:* AWS: What Is a Relational Database?](https://aws.amazon.com/relational-database/)
 - *[External Site:* AWS: Databases on AWS](https://aws.amazon.com/products/databases/)
+
+[<< Prev](./Exercise%205%20Create%20an%20Amazon%20S3%20Bucket.md)
+|
+[Netx >>](Reading%203%206%20Amazon%20Relational%20Database%20Service.md)

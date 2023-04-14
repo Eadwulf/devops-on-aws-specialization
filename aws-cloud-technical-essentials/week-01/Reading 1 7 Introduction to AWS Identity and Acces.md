@@ -1,3 +1,7 @@
+[<< Prev](./Exercise%201%3A%20Billing%20Threshold%20on%20AWS.md)
+|
+[Next >>](./Reading%201%208%20Role-Based%20Access%20in%20AWS.md)
+
 # Reading 1.7: Introduction to AWS Identity and Access Management
 
 ## **WHAT IS IAM?**
@@ -55,7 +59,7 @@ Most policies are stored in AWS as JSON documents with several policy elements. 
 
 **"Version": "2012-10-17",**
 
-**"Statement": [{        
+**"Statement": [{
           "Effect": "Allow",**
 
 **"Action": "*",**
@@ -116,3 +120,7 @@ When creating a policy, it is required to have each of the following elements in
 - *[External Site: What is IAM?](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/introduction.html)*
 - *[External Site: AWS IAM Identities](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/id.html)*
 - *[External Site: Access Management with AWS IAM](https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/access.html)*
+
+[<< Prev](./Exercise%201%3A%20Billing%20Threshold%20on%20AWS.md)
+|
+[Next >>](./Reading%201%208%20Role-Based%20Access%20in%20AWS.md)

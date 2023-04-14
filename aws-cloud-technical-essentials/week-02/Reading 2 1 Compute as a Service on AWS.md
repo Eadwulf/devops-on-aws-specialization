@@ -1,3 +1,7 @@
+[<< Prev](../week-01/Exercise%202%20Following%20IAM%20Best%20Practices.md)
+|
+[Netx >>](./Reading%202%202%20Introduction%20to%20Amazon%20Elastic%20Compute%20Cloud.md)
+
 # Reading 2.1: Compute as a Service on AWS
 
 ## **Understanding Servers**
@@ -20,3 +24,7 @@ If you’re responsible for setting up servers on AWS to run your infrastructure
 - *[External Site:* AWS: Compute Services Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 - *[External Site:* AWS: Compute on AWS](https://aws.amazon.com/products/compute/)
 - *[External Site:* AWS: AWS Compute Blog](https://aws.amazon.com/blogs/compute/)
+
+[<< Prev](../week-01/Exercise%202%20Following%20IAM%20Best%20Practices.md)
+|
+[Netx >>](./Reading%202%202%20Introduction%20to%20Amazon%20Elastic%20Compute%20Cloud.md)

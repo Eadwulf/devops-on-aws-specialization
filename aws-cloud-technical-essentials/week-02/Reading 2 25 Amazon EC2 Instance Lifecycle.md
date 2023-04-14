@@ -1,3 +1,7 @@
+[<< Prev](./Reading%202%202%20Introduction%20to%20Amazon%20Elastic%20Compute%20Cloud.md)
+|
+[Netx >>](./Exercise%203%20Launch%20and%20Corporate%20Directory%20Application.md)
+
 # Reading 2.25: Amazon EC2 Instance Lifecycle
 
 Now that you know how to select an operating system for your EC2 instance, it’s time to choose other configurations to create your EC2 instance, such as the instance type, network, and storage. For an application like the employee directory application, you need instances with enough capacity to run web servers and process incoming customer requests. Your instance sizing will depend on both the demands of your application and the anticipated size of your user base. Forecasting server capacity for an on-premises application requires difficult decisions involving significant up-front capital spending, while changes to the allocation of your cloud-based services can be made with a simple API call. Because of AWS’s pay-as-you-go model, you can match your infrastructure capacity to your application’s demand, instead of the other way around.
@@ -75,3 +79,7 @@ Another way of paying for EC2 instances is by using *Spot Instances*. Amazon EC2
 - *[External Site:* AWS: Amazon EC2 On-Demand Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)
 - *[External Site:* AWS: Amazon EC2 Spot Instances Pricing](https://aws.amazon.com/ec2/spot/pricing/)
 - *[External Site:* AWS: Amazon EC2 Reserved Instances Pricing](https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/)
+
+[<< Prev](./Reading%202%202%20Introduction%20to%20Amazon%20Elastic%20Compute%20Cloud.md)
+|
+[Netx >>](./Exercise%203%20Launch%20and%20Corporate%20Directory%20Application.md)

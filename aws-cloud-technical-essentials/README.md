@@ -62,8 +62,8 @@
 
 [Reading 3.6: Amazon Relational Database Service](week-03/Reading%203%206%20Amazon%20Relational%20Database%20Service.md)
 
-[Reading 3.8: Introduction to Amazon DynamoDB](week-03/Reading%203%208%20Introduction%20to%20Amazon%20DynamoDB.md)
+[Reading 3.7: Introduction to Amazon DynamoDB](./week-03/Reading%203%207%20Introduction%20to%20Amazon%20DynamoDB.md)
 
-[Reading 3.9: Choose the Right AWS Database Service](week-03/Reading%203%209%20Choose%20the%20Right%20AWS%20Database%20Service.md)
+[Reading 3.8: Choose the Right AWS Database Service](./week-03/Reading%203%208%20Choose%20the%20Right%20AWS%20Database%20Service.md)
 
 [**Exercise 6: Amazon DynamoDB**](week-03/Exercise%206%3A%20Amazon%20DynamoDB.md)

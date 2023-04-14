@@ -1,3 +1,7 @@
+[<< Prev](Reading%203%205%20Explore%20Databases%20on%20AWS.md)
+|
+[Netx >>](./Reading%203%207%20Introduction%20to%20Amazon%20DynamoDB.md)
+
 # Reading 3.6: Amazon Relational Database Service
 
 ## **What Is Amazon RDS?**
@@ -101,3 +105,7 @@ The reason you can select multiple subnets for an Amazon RDS database is because
 - *[External Site:* AWS: Amazon RDS Backup and Restore](https://aws.amazon.com/rds/details/backup/)
 - *[External Site:* AWS: Creating and Using an IAM Policy for IAM Database Access](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.IAMPolicy.html)
 - *[External Site:* AWS: Amazon Virtual Private Cloud VPCs and Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.html)
+
+[<< Prev](Reading%203%205%20Explore%20Databases%20on%20AWS.md)
+|
+[Netx >>](./Reading%203%207%20Introduction%20to%20Amazon%20DynamoDB.md)

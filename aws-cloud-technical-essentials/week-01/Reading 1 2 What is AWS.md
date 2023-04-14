@@ -1,3 +1,5 @@
+[Next >>](./Reading%201%203%20AWS%20Global%20Infrastructure.md)
+
 # Reading 1.2: What is AWS?
 
 # **What is the Cloud?**
@@ -37,3 +39,5 @@ So where does AWS fit into all of this? Well AWS simply just provides cloud comp
 - *[External Site:* AWS: What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
 - *[External Site:* AWS: Types of Cloud Computing](http://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html)
 - *[External Site:* AWS: Cloud computing with AWS](https://aws.amazon.com/what-is-aws/)
+
+[Next >>](./Reading%201%203%20AWS%20Global%20Infrastructure.md)
