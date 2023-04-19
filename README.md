@@ -12,7 +12,7 @@ DevOps on AWS specialization teaches you how to use the combination of DevOps ph
 
 The first course introduces you to essential AWS products, services, and common solutions. The course covers the fundamental concepts of compute, database, storage, networking, monitoring and security that learners and professionals will need to know when working with AWS.
 
-### 2. [DevOps on AWS: Code, Build, and Test]()
+### 2. [DevOps on AWS: Code, Build, and Test](code-build-and-test/README.md)
 
 The second course in the specialization discusses topics such as source control, best practices for Continuous Integration, and how to use the right tools to measure code quality, by identifying workflow steps that could be automated.
 
