@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+git-remote-codecommit = "*"
+aws-sam-cli = "*"
+boto3 = "*"
+pylint = "*"
+pytest = "*"
+pytest-mock = "*"
+pytest-cov = "*"
+requests = "*"
+websockets = "*"
+pyyaml = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
