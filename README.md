@@ -16,7 +16,7 @@ The first course introduces you to essential AWS products, services, and common 
 
 The second course in the specialization discusses topics such as source control, best practices for Continuous Integration, and how to use the right tools to measure code quality, by identifying workflow steps that could be automated.
 
-### 3. [DevOps on AWS: Release and Deploy]()
+### 3. [DevOps on AWS: Release and Deploy](release-and-deploy/README.md)
 
 The third course explains how to improve the deployment process with DevOps methodology, and also some tools that might make deployments easier, such as Infrastructure as Code, or IaC, and AWS CodeDeploy.
 
