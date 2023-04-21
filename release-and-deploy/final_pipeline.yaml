@@ -5,16 +5,14 @@ Parameters:
     Description: (Required) Enter the name of the AWS CodePipeline pipeline to be created
   AmiId:
     Type: 'AWS::SSM::Parameter::Value<AWS::EC2::Image::Id>'
-    Default: /aws/service/ami-amazon-linux-latest/amzn2-ami-hvm-x86_64-gp2
-    Description: (Required) AMI Id used to launch the instances. This template uses AmazonLinux2 AMI using SSM parameter Store. To specify value, a parameter of 'aws:ec2:image' type must be created in AWS Systems Manager Parameter Store.
+    Default: /aws/service/ami-amazon-linux-latest/al2023-ami-kernel-default-x86_64
+    Description: (Required) AMI Id used to launch the instances. This template uses AmazonLinux 2023 AMI using SSM parameter Store. To specify value, a parameter of 'aws:ec2:image' type must be created in AWS Systems Manager Parameter Store.
   # EC2KeypairName:
   #   Type: AWS::EC2::KeyPair::KeyName
   #   Description: (Required) Provide the name of the EC2 Keypair
 Resources:
 
-  #####
   # Network resources
-  #####
   VPC:
     Type: 'AWS::EC2::VPC'
     Properties:
@@ -107,9 +105,7 @@ Resources:
           ToPort: 443
           CidrIp: 0.0.0.0/0
 
-  #####
   # CodePipeline resources
-  #####
   CodePipelineArtifactStoreS3Bucket:
     Type: AWS::S3::Bucket
     Properties:
@@ -260,9 +256,7 @@ Resources:
               OutputArtifacts:
                 - Name: BuildArtifact
 
-  #####
   # EC2 resources
-  #####
   EC2InstanceProfileRoleForCodeDeploy:
     Type: "AWS::IAM::Role"
     Properties:
@@ -310,16 +304,15 @@ Resources:
             yum install -y ruby
             yum install -y aws-cli
             cd /home/ec2-user
-            #Downloading & Installing CodeDeploy Agent as per https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-s3.html#S3-create-instances
+            #Downloading & Installing CodeDeploy Agent as per
+            #https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-s3.html#S3-create-instances
             aws s3 cp s3://aws-codedeploy-${AWS::Region}/latest/install . --region ${AWS::Region}
             chmod +x ./install
             ./install auto
             #Sending signal to CloudFormation
             /opt/aws/bin/cfn-signal -e $? --stack ${AWS::StackName} --resource EC2Instance --region ${AWS::Region}
 
-  #####
   # CodeDeploy Resources
-  #####
   CodeDeployServiceRole:
     Type: "AWS::IAM::Role"
     Properties:
@@ -357,9 +350,7 @@ Resources:
           Type: KEY_AND_VALUE
       ServiceRoleArn: !GetAtt CodeDeployServiceRole.Arn
 
-  #####
   # CodeCommit repository
-  #####
   CodeCommitRepo:
     Type: AWS::CodeCommit::Repository
     Properties:
@@ -371,9 +362,7 @@ Resources:
           Bucket: aws-tc-largeobjects
           Key: DEV-AWS-MO-DevOps-C2/downloads/Blog.zip
 
-  #####
   # CodeBuild Resources
-  #####
   CodeBuildPolicy:
     Description: Setting IAM policy for service role for CodeBuild
     Properties:
